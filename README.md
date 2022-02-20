@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nitish-jha0
+- 👋 Hi, I’m Nitish jha
 - 👀 I’m interested in coading & web devloping.
 - 🌱 I’m currently learning Coading & Marketing.
 - 💞️ I’m looking to collaborate.
