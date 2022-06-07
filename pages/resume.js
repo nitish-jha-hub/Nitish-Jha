@@ -3,8 +3,8 @@ import React from 'react'
 
 const Resume = () => {
   return (
-    <div className='flex justify-center'>
-      <Image src={"/resume.jpg"} alt="Resume Nitish" width={707} height={600} ></Image>
+    <div className='mt-8 flex justify-center'>
+      <Image src={"/resume.png"} alt="Resume Nitish" width={600} height={500} ></Image>
     </div>
   )
 }
